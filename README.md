@@ -3,7 +3,7 @@
 
 ## Our Terms log :)
 
-## Stay uo to date with our official Terms ...
+## Stay up to date with our official Terms ...
 
 ### 16.01.2023
 - Topic: Privacy Policy Update
