@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Let's shape the future with Linkspreed 🧡</h1>
 <h3 align="center">Find our official Data Protection Terms in this Github Repository! 📱</h3>
 
-### (**As can be seen from the related links on the corresponding pages, the present documents are valid for all services, platforms and tools from Linkspreed.**) [https://github.com/linkspreed/pages]
+### ([**As can be seen from the related links on the corresponding pages, the present documents are valid for all services, platforms and tools from Linkspreed.**](https://github.com/linkspreed/pages))
 
 ## Check out our Documents & Forms online! ✅
 - **Privacy Policy**
