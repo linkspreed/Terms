@@ -29,6 +29,11 @@
 
 ## Stay up to date with our official Terms ...
 
+### 21.01.2023
+- Topic: Privacy Policy Update
+- Directory: /changelog.md
+- Description: ``` We've updated our Privacy Policy! ```
+
 ### 16.01.2023
 - Topic: Privacy Policy Update
 - Directory: /pdf/Privacy-Policy_Linkspreed.pdf
