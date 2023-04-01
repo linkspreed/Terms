@@ -29,6 +29,20 @@
 
 ## Stay up to date with our official Terms ...
 
+### 01.04.2023 (announcement [Acceptable Use Policy])
+- https://user-images.githubusercontent.com/102324985/229288020-1314fb01-ca1c-4632-bbcd-0dd0772e9901.png
+
+### 01.04.2023 (announcement [Acceptable Use Policy])
+- 📢🔥Big news alert!🔥📢 Our Imprint just got a major update! Check it out here: 
+- https://linkspreed.com/site-pages/Acceptable_Use_Policy 🤩 #excitingupdates #companynews #Imprintupdate
+
+### 01.04.2023 (announcement [Imprint])
+- https://user-images.githubusercontent.com/102324985/229287120-2da8dcf9-c624-46a4-bf50-ba09c037b726.png
+
+### 01.04.2023 (announcement [Imprint])
+- 📢🔥Big news alert!🔥📢 Our Imprint just got a major update! Check it out here: 
+- https://linkspreed.com/terms/about-us 🤩 #excitingupdates #companynews #Imprintupdate
+
 ### 21.01.2023
 - Topic: Privacy Policy Update
 - Directory: /changelog.md
